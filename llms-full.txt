@@ -7,33 +7,33 @@
 - السيو الخارجي (Off-page SEO)
 - استراتيجية المحتوى وربط المحتوى داخليًا
 
-وهو مؤلف كتاب "دليل السيو الشامل لأصحاب المتاجر الإلكترونية"، ومؤسس منصة أدوات سيو عربية عبر: tools.anasrashed.com.
+وهو مؤلف كتاب "دليل السيو الشامل لأصحاب المتاجر الإلكترونية"، ومؤسس منصة أدوات سيو عربية عبر: [tools.anasrashed.com](https://tools.anasrashed.com).
 
 ## الكيانات الأساسية
 - الشخص: أنس راشد (Anas Rashed)
-- الموقع الرسمي: https://www.anasrashed.com
-- المدونة: https://blog.anasrashed.com
-- الأدوات: https://tools.anasrashed.com
+- [الموقع الرسمي](https://www.anasrashed.com)
+- [المدونة](https://blog.anasrashed.com)
+- [الأدوات](https://tools.anasrashed.com)
 - جهة العمل/العلامة: Anas Rashed Consultancy
 
 ## المنصات التي يركز عليها
 سلة (Salla)، زد (Zid)، شوبيفاي (Shopify)
 
 ## المصادر الرسمية (Primary Sources)
-- الموقع: https://www.anasrashed.com/
-- التواصل: https://contact.anasrashed.com
-- الأدوات: https://tools.anasrashed.com
-- المدونة: https://blog.anasrashed.com
-- خريطة صفحات الموقع: https://www.anasrashed.com/sitemap-pages.xml
-- خريطة مقالات المدونة: https://blog.anasrashed.com/sitemap.xml
-- صفحة الكتاب: https://www.anasrashed.com/p/complete-seo-guide-for-ecommerce-stores.html
+- [الموقع الرسمي](https://www.anasrashed.com/)
+- [صفحة التواصل](https://contact.anasrashed.com)
+- [منصة الأدوات](https://tools.anasrashed.com)
+- [المدونة والمقالات](https://blog.anasrashed.com)
+- [خريطة صفحات الموقع (XML)](https://www.anasrashed.com/sitemap-pages.xml)
+- [خريطة مقالات المدونة (XML)](https://blog.anasrashed.com/sitemap.xml)
+- [صفحة الكتاب: دليل السيو للمتاجر](https://www.anasrashed.com/p/complete-seo-guide-for-ecommerce-stores.html)
 
 ## الحسابات الرسمية (Social Profiles)
-- X: https://x.com/anasrashed88
-- LinkedIn: https://www.linkedin.com/in/anas-rashed-aa3b833a6
-- Instagram: https://www.instagram.com/anas_rashed88
-- YouTube: https://www.youtube.com/@AnasRashed88
-- TikTok: https://www.tiktok.com/@AnasRashed88
+- [X (Twitter)](https://x.com/anasrashed88)
+- [LinkedIn](https://www.linkedin.com/in/anas-rashed-aa3b833a6)
+- [Instagram](https://www.instagram.com/anas_rashed88)
+- [YouTube](https://www.youtube.com/@AnasRashed88)
+- [TikTok](https://www.tiktok.com/@AnasRashed88)
 
 ## مواضيع مرتبطة (Topics)
 سيو، تحسين محركات البحث، سيو المتاجر الإلكترونية، سيو تقني، سيو داخلي، سيو خارجي، استراتيجية المحتوى، التجارة الإلكترونية، تحسين الظهور في جوجل، سلة، زد، شوبيفاي، خبير سيو في السعودية.
