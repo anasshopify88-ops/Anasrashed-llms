@@ -1,9 +1,9 @@
 # أنس راشد (Anas Rashed)
 
-> أنس راشد خبير تحسين محركات البحث (SEO) للمتاجر الإلكترونية في السعودية، يعمل في المجال منذ 2021. يقدّم خدمة السيو الداخلي (On-page SEO) لمتاجر سلة وزد وشوبيفاي، ومؤلف كتاب "دليل السيو الشامل لأصحاب المتاجر الإلكترونية"، ويوفر 7 أدوات سيو عربية مجانية. مستقل موثّق بوثيقة العمل الحر رقم FL-486531330.
+> أنس راشد خبير تحسين محركات البحث (SEO) للمتاجر الإلكترونية في السعودية، يعمل في المجال منذ 2021. يقدّم خدمة السيو الداخلي (On-page SEO) لمتاجر سلة وزد وشوبيفاي، ومؤلف كتاب "دليل السيو الشامل لأصحاب المتاجر الإلكترونية"، ويوفر 11 أداة سيو عربية مجانية. مستقل موثّق بوثيقة العمل الحر رقم FL-486531330.
 
 ## الخدمات
-- [خدمة السيو وباقاتها](https://www.anasrashed.com/#services): تهيئة Meta Title وDescription وURL ونصوص ALT وتحويل الروابط المعطلة ومقالات فريدة. الباقات تبدأ من 990 ريال.
+- [الباقات والأسعار](https://www.anasrashed.com/p/anas-seo-services-pricing.html): تهيئة Meta Title وDescription وURL ونصوص ALT وتحويل الروابط المعطلة ومقالات فريدة. الباقات تبدأ من 990 ريال وتُدفع مرة واحدة.
 - [سيو متاجر سلة](https://www.anasrashed.com/p/salla-seo.html)
 - [سيو متاجر زد](https://www.anasrashed.com/p/zid-seo.html)
 - [سيو متاجر شوبيفاي](https://www.anasrashed.com/p/shopify-seo.html)
@@ -12,7 +12,8 @@
 - [دليل السيو الشامل لأصحاب المتاجر الإلكترونية](https://www.anasrashed.com/p/seo-book.html): كتاب عربي بصيغة PDF، سعره 65 ريال، ردمك 978-603-05-9803-8.
 
 ## أدوات السيو المجانية
-- [صفحة الأدوات](https://www.anasrashed.com/tools): 7 أدوات مجانية بالعربي وبدون تسجيل.
+- [صفحة الأدوات](https://www.anasrashed.com/tools): 11 أداة مجانية بالعربي وبدون تسجيل.
+- [فحص سيو المتجر](https://www.anasrashed.com/p/seo-score.html)
 - [محاكاة نتائج جوجل SERP بالذكاء الاصطناعي](https://www.anasrashed.com/p/serp-simulator.html)
 - [اقتراحات بحث جوجل](https://www.anasrashed.com/p/google-suggest.html)
 - [كلمات المنافسين المفتاحية](https://www.anasrashed.com/p/competitor-keywords.html)
@@ -20,6 +21,12 @@
 - [فحص سرعة الموقع](https://www.anasrashed.com/p/speed-test.html)
 - [تحويل الصور إلى WebP](https://www.anasrashed.com/p/webp-converter.html)
 - [منشئ خريطة الموقع](https://www.anasrashed.com/p/sitemap-generator.html)
+- [فاحص التحويلات](https://www.anasrashed.com/p/redirect-tool.html)
+- [فحص وإنشاء robots.txt](https://www.anasrashed.com/p/robots-txt.html)
+- [مولّد السكيما](https://www.anasrashed.com/p/schema-generator.html)
+
+## مراجع
+- [قاموس مصطلحات السيو](https://www.anasrashed.com/p/seo-glossary.html): 91 مصطلحًا مشروحًا بالعربي.
 
 ## الثقة والتواصل
 - [من هو أنس راشد](https://www.anasrashed.com/p/about.html)
